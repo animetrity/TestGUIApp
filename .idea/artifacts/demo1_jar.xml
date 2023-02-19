@@ -5,7 +5,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
       </element>
-      <element id="module-output" name="demo1" />
+      <element id="module-output" name="TestGUIApp001" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2-linux.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2.jar" path-in-jar="/" />
